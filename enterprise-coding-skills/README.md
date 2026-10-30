@@ -2,7 +2,7 @@
 
 Independent, reusable AI coding skills — **one skill = one capability** — for multi-language and multi-framework development.
 
-Compatible with the [Agent Skills Open Specification](https://agentskills.io/specification). Sync individual skill folders into `.kiro/skills/` or `.cursor/skills/` as needed.
+Compatible with the [Agent Skills Open Specification](https://agentskills.io/specification). Copy skill folders into `.kiro/skills/` or `.cursor/skills/` as needed (this repo uses `python3 tooling/sync-kiro-skills.py` to materialize real directories under `.kiro/skills/`).
 
 ## Principle
 

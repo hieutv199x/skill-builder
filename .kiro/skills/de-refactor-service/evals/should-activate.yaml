@@ -1,0 +1,6 @@
+positives:
+  - prompt: "Refactor the payments module to extract a domain service"
+  - prompt: "Restructure this NestJS module without changing behavior"
+negatives:
+  - prompt: "Add a new API field for currency"
+  - prompt: "Fix production outage null pointer ASAP"

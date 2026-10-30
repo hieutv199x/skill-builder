@@ -1,0 +1,6 @@
+positives:
+  - prompt: "Review this pull request for bugs and security issues"
+  - prompt: "Code review the diff before merge"
+negatives:
+  - prompt: "Implement the feature from scratch"
+  - prompt: "Generate AGENTS.md from the repo"

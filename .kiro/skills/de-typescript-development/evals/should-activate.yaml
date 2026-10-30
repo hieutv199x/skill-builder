@@ -1,0 +1,6 @@
+positives:
+  - prompt: "Tighten TypeScript types in this shared utils package"
+  - prompt: "Fix TS strict null errors in the Node helper"
+negatives:
+  - prompt: "Add a Spring Boot actuator endpoint"
+  - prompt: "Implement a Kotlin Coroutines repository"

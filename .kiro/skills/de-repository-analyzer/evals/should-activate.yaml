@@ -1,0 +1,8 @@
+positives:
+  - prompt: "What tech stack and versions does this repository use?"
+  - prompt: "Analyze this service before we implement the feature"
+  - prompt: "Detect Spring Boot and Angular versions in the monorepo"
+negatives:
+  - prompt: "Add a new REST endpoint to create a payment"
+  - prompt: "Fix the CSS spacing on the login button"
+  - prompt: "Write unit tests for UserService"

@@ -1,0 +1,13 @@
+positives:
+  - prompt: "Add a Spring Boot REST endpoint for account summary with validation and tests"
+  - prompt: "Fix a NullPointerException in the OrderService and add a regression test"
+  - prompt: "Write MockMvc tests for the existing OrderController"
+  - prompt: "Add a Flyway migration and JPA field for order currency"
+  - prompt: "Secure the new POST /api/orders with the same authorities as sibling write APIs"
+  - prompt: "Update OpenAPI and implement the generated Spring API interface"
+negatives:
+  - prompt: "Update the Angular routing for the dashboard"
+  - prompt: "Generate AGENTS.md only"
+  - prompt: "Change the Backbase Angular journey header"
+  - prompt: "Implement a NestJS module for notifications"
+  - prompt: "Build a React invoice filter component"

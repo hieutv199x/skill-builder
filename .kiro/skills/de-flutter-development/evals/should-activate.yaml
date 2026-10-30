@@ -1,0 +1,6 @@
+positives:
+  - prompt: "Add a Flutter widget screen for transfer confirmation"
+  - prompt: "Fix Flutter Riverpod/Bloc state for the login flow"
+negatives:
+  - prompt: "Add a Spring Boot entity"
+  - prompt: "Modify NestJS DTO validation only"

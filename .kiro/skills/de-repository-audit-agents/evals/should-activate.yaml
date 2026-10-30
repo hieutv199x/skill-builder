@@ -1,0 +1,12 @@
+positives:
+  - prompt: "Audit this repository and generate a proper AGENTS.md"
+  - prompt: "Create AGENTS.md from codebase evidence with MUST/SHOULD/MUST NOT"
+  - prompt: "de-repository-audit-agents for the payments service"
+  - prompt: "Onboard this repo for agents — write service development instructions"
+  - prompt: "Refresh AGENTS.md after the Spring Boot upgrade and classify legacy patterns"
+negatives:
+  - prompt: "Implement the refund REST endpoint"
+  - prompt: "Fix the Angular form double-submit bug"
+  - prompt: "Only run unit tests for OrderService"
+  - prompt: "Add a Flyway migration for currency code"
+  - prompt: "Review this PR for security issues only"

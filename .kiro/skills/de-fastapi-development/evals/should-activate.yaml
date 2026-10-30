@@ -1,0 +1,6 @@
+positives:
+  - prompt: "Add a FastAPI endpoint with Pydantic validation"
+  - prompt: "Fix FastAPI dependency injection for DB sessions"
+negatives:
+  - prompt: "Update SwiftUI previews"
+  - prompt: "Modify Angular reactive forms"

@@ -1,0 +1,6 @@
+positives:
+  - prompt: "Review this diff for maintainability and code quality"
+  - prompt: "Reduce complexity in this service method without changing behavior"
+negatives:
+  - prompt: "Detect the repository tech stack only"
+  - prompt: "Add a FastAPI endpoint for health checks"

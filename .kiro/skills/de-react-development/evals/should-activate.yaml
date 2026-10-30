@@ -1,0 +1,6 @@
+positives:
+  - prompt: "Add a React component for invoice filters"
+  - prompt: "Fix Next.js app router page data fetching"
+negatives:
+  - prompt: "Add a Spring Boot controller"
+  - prompt: "Implement Backbase Angular journey only"

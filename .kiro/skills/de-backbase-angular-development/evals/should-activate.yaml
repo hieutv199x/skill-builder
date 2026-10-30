@@ -1,0 +1,12 @@
+positives:
+  - prompt: "Implement a Backbase Angular journey step for card management"
+  - prompt: "Wire a Backbase UI table to the generated arrangements client"
+  - prompt: "Fix routing and entitlements in our Backbase Angular payments flow"
+  - prompt: "Add loading and error states to a Backbase journey form submit"
+  - prompt: "Unit test the Backbase Angular transfers container with a mocked facade"
+negatives:
+  - prompt: "Change only the Spring Boot service layer"
+  - prompt: "Add a Kotlin Android Compose screen"
+  - prompt: "Generate AGENTS.md without UI changes"
+  - prompt: "Implement a NestJS module for notifications"
+  - prompt: "Add a Flyway migration for orders"

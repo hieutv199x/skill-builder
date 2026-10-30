@@ -1,0 +1,6 @@
+positives:
+  - prompt: "Add a Jetpack Compose screen for account details"
+  - prompt: "Fix Android ViewModel state for the payments flow"
+negatives:
+  - prompt: "Add a SwiftUI list view"
+  - prompt: "Change Spring Boot security config only"

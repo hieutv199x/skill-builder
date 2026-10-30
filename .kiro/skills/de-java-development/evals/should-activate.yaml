@@ -1,0 +1,6 @@
+positives:
+  - prompt: "Refactor this Java class to use records if the JDK allows"
+  - prompt: "Fix Java exception handling in this utility"
+negatives:
+  - prompt: "Add an Angular route guard"
+  - prompt: "Create a SwiftUI view"

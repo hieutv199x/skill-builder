@@ -1,0 +1,6 @@
+positives:
+  - prompt: "Add a Go HTTP handler and service for webhooks"
+  - prompt: "Fix Go context cancellation in this worker"
+negatives:
+  - prompt: "Update React components"
+  - prompt: "Change SwiftUI previews"

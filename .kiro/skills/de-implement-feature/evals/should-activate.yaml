@@ -1,0 +1,6 @@
+positives:
+  - prompt: "Implement this user story end to end in the service"
+  - prompt: "Build the new feature from the ticket with tests"
+negatives:
+  - prompt: "Only write AGENTS.md"
+  - prompt: "Only review the PR comments"
