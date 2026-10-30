@@ -1,5 +1,5 @@
 ---
-name: react-development
+name: de-react-development
 description: >-
   Implement and modify React and Next.js UI: components, hooks, routing (App
   or Pages router), data fetching (RSC, React Query, SWR, etc. as used), forms,

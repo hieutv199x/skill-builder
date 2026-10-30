@@ -36,7 +36,7 @@ python3 enterprise-coding-skills/tooling/validate-catalog.py
 ```bash
 mkdir -p /path/to/app/.kiro/skills
 cp -R enterprise-coding-skills/frameworks/spring-boot \
-  /path/to/app/.kiro/skills/spring-boot-development
+  /path/to/app/.kiro/skills/de-spring-boot-development
 ```
 
 (Use the skill folder that contains `SKILL.md`; the directory name should match the skill `name` in frontmatter.)
@@ -44,8 +44,8 @@ cp -R enterprise-coding-skills/frameworks/spring-boot \
 **Option B — symlink from this repo**
 
 ```bash
-ln -s /absolute/path/to/Skill-builder/.kiro/skills/spring-boot-development \
-  /path/to/app/.kiro/skills/spring-boot-development
+ln -s /absolute/path/to/Skill-builder/.kiro/skills/de-spring-boot-development \
+  /path/to/app/.kiro/skills/de-spring-boot-development
 ```
 
 **Option C — global Kiro skills**
@@ -55,19 +55,19 @@ mkdir -p ~/.kiro/skills
 # link or copy the skills you need into ~/.kiro/skills/
 ```
 
-In Kiro, invoke by name (e.g. `/repository-audit-agents`) or rely on description-based discovery.
+In Kiro, invoke by name (e.g. `/de-repository-audit-agents`) or rely on description-based discovery.
 
 ## Suggested starters
 
 | Goal | Skill |
 |---|---|
-| Detect stack | `repository-analyzer` |
-| Deep audit → `AGENTS.md` | `repository-audit-agents` |
-| Backfill / refresh `AGENTS.md` | `backfill-agents-md` |
-| Spring feature work | `spring-boot-development` |
-| Angular feature work | `angular-development` |
-| Backbase backend | `backbase-service-development` |
-| Backbase Angular | `backbase-angular-development` |
+| Detect stack | `de-repository-analyzer` |
+| Deep audit → `AGENTS.md` | `de-repository-audit-agents` |
+| Backfill / refresh `AGENTS.md` | `de-backfill-agents-md` |
+| Spring feature work | `de-spring-boot-development` |
+| Angular feature work | `de-angular-development` |
+| Backbase backend | `de-backbase-service-development` |
+| Backbase Angular | `de-backbase-angular-development` |
 
 Enable **only** the independent skills needed for the task.
 

@@ -1,9 +1,9 @@
 ---
-name: swift-development
+name: de-swift-development
 description: >-
   Write and modify idiomatic Swift code with version-aware language features,
   packaging/modules, error handling, and the repository's test/lint toolchain.
-  Use for Swift language-level work. Prefer swiftui-development when those frameworks
+  Use for Swift language-level work. Prefer de-swiftui-development when those frameworks
   are the primary task focus — this skill complements them, it does not replace them.
 metadata:
   version: "1.1.0"

@@ -1,5 +1,5 @@
 ---
-name: coding-quality
+name: de-coding-quality
 description: >-
   Enforce maintainable code quality during implementation and review: naming,
   structure, complexity, duplication, error handling, readability, and adherence
@@ -18,7 +18,7 @@ metadata:
 
 **Allowed:** quality guidance and small refactors inside the active change set; lint/format fixes required for the task.
 
-**Excluded:** repo-wide cleanups; framework selection; security deep-dives (`secure-coding`); inventing style that fights the repo.
+**Excluded:** repo-wide cleanups; framework selection; security deep-dives (`de-secure-coding`); inventing style that fights the repo.
 
 ## Detect
 

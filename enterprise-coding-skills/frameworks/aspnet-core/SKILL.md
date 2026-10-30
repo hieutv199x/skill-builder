@@ -1,5 +1,5 @@
 ---
-name: aspnet-core-development
+name: de-aspnet-core-development
 description: >-
   Implement and modify ASP.NET Core Web APIs/MVC: controllers or minimal APIs,
   DI, validation, authz policies, EF Core as used, and tests (xUnit +

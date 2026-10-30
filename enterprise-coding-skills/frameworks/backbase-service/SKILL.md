@@ -1,5 +1,5 @@
 ---
-name: backbase-service-development
+name: de-backbase-service-development
 description: >-
   Implement or change Backbase Java/Spring backend services in depth: OpenAPI
   or BOAT contract-first flows, resources/controllers, application services,
@@ -30,14 +30,14 @@ metadata:
 - Unit, slice, integration, and contract tests the repo already supports
 
 **Excluded**
-- Angular / Backbase Angular UI → `backbase-angular-development`
+- Angular / Backbase Angular UI → `de-backbase-angular-development`
 - Embedding proprietary Backbase source/docs into shared skills
 - Guessing SDK method names or payload shapes
 - Unapproved breaking public API or cross-service contract changes
 - Boot/Backbase BOM major upgrades inside a business feature
 - Inventing a parallel HTTP/SDK client stack
 
-**Compose with** `spring-boot-development` for general Spring layering, testing styles, and JPA/Security mechanics. Prefer **this** skill whenever `com.backbase.*` / banking-service boundaries are in scope.
+**Compose with** `de-spring-boot-development` for general Spring layering, testing styles, and JPA/Security mechanics. Prefer **this** skill whenever `com.backbase.*` / banking-service boundaries are in scope.
 
 ## Detect
 
@@ -92,7 +92,7 @@ List:
 4. Security/entitlements — [references/security-and-entitlements.md](references/security-and-entitlements.md)
 5. Conventions — [references/coding-conventions.md](references/coding-conventions.md)
 6. Recipes — [references/common-tasks.md](references/common-tasks.md)
-7. Spring details as needed via `spring-boot-development` skill references
+7. Spring details as needed via `de-spring-boot-development` skill references
 
 ### 4. Verify
 Use the service wrappers only:

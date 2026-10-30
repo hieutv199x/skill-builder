@@ -1,5 +1,5 @@
 ---
-name: repository-analyzer
+name: de-repository-analyzer
 description: >-
   Detect a repository tech stack, language/framework versions, build and test
   tools, entry points, contracts, and project guidance (AGENTS.md / steering).

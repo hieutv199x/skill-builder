@@ -25,7 +25,7 @@
 
 ## Workflow
 - Read `order-api.yaml` before endpoint changes
-- Use independent skills: `spring-boot-development`, `java-development`, `testing-strategy`
+- Use independent skills: `de-spring-boot-development`, `de-java-development`, `de-testing-strategy`
 - Run `./mvnw -pl :order-service -Dtest=... test` before claiming done
 
 ## Known Exceptions / Legacy Debt

@@ -20,41 +20,41 @@ Each skill stands alone. Enable only the skill(s) relevant to the current task. 
 ## Skills catalog
 
 ### Foundation
-- `repository-analyzer`
-- `coding-quality`
-- `secure-coding`
-- `testing-strategy`
+- `de-repository-analyzer`
+- `de-coding-quality`
+- `de-secure-coding`
+- `de-testing-strategy`
 
 ### Language development
-- `java-development`
-- `typescript-development`
-- `python-development`
-- `csharp-development`
-- `kotlin-development`
-- `swift-development`
+- `de-java-development`
+- `de-typescript-development`
+- `de-python-development`
+- `de-csharp-development`
+- `de-kotlin-development`
+- `de-swift-development`
 
 ### Framework development
-- `spring-boot-development`
-- `angular-development`
-- `react-development`
-- `fastapi-development`
-- `django-development`
-- `nestjs-development`
-- `aspnet-core-development`
-- `android-development`
-- `swiftui-development`
-- `go-development`
-- `flutter-development`
-- `backbase-service-development`
-- `backbase-angular-development`
+- `de-spring-boot-development`
+- `de-angular-development`
+- `de-react-development`
+- `de-fastapi-development`
+- `de-django-development`
+- `de-nestjs-development`
+- `de-aspnet-core-development`
+- `de-android-development`
+- `de-swiftui-development`
+- `de-go-development`
+- `de-flutter-development`
+- `de-backbase-service-development`
+- `de-backbase-angular-development`
 
 ### Workflows
-- `repository-audit-agents` — deep audit → generate standards-compliant `AGENTS.md`
-- `backfill-agents-md` — backfill/refresh `AGENTS.md` workflow (merge, rollout, review)
-- `implement-feature`
-- `fix-defect`
-- `refactor-service`
-- `review-code`
+- `de-repository-audit-agents` — deep audit → generate standards-compliant `AGENTS.md`
+- `de-backfill-agents-md` — backfill/refresh `AGENTS.md` workflow (merge, rollout, review)
+- `de-implement-feature`
+- `de-fix-defect`
+- `de-refactor-service`
+- `de-review-code`
 
 ## Registry
 

@@ -1,9 +1,9 @@
 ---
-name: python-development
+name: de-python-development
 description: >-
   Write and modify idiomatic Python code with version-aware language features,
   packaging/modules, error handling, and the repository's test/lint toolchain.
-  Use for Python language-level work. Prefer fastapi-development / django-development when those frameworks
+  Use for Python language-level work. Prefer de-fastapi-development / de-django-development when those frameworks
   are the primary task focus — this skill complements them, it does not replace them.
 metadata:
   version: "1.1.0"

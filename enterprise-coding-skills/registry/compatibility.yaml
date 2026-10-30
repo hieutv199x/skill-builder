@@ -2,38 +2,38 @@
 version: "1.1.0"
 
 matrices:
-  spring-boot-development:
+  de-spring-boot-development:
     java: ">=17"
     spring-boot: ">=3.0 <4.0"
-  angular-development:
+  de-angular-development:
     node: ">=18"
     angular: ">=15 <20"
-  react-development:
+  de-react-development:
     node: ">=18"
     react: ">=18"
-  fastapi-development:
+  de-fastapi-development:
     python: ">=3.10"
     fastapi: ">=0.100"
-  django-development:
+  de-django-development:
     python: ">=3.10"
     django: ">=4.2"
-  nestjs-development:
+  de-nestjs-development:
     node: ">=18"
     nestjs: ">=10"
-  aspnet-core-development:
+  de-aspnet-core-development:
     dotnet: ">=8"
-  android-development:
+  de-android-development:
     kotlin: ">=1.9"
     min-sdk: "detect-from-gradle"
-  swiftui-development:
+  de-swiftui-development:
     swift: ">=5.9"
-  go-development:
+  de-go-development:
     go: ">=1.21"
-  flutter-development:
+  de-flutter-development:
     dart: "detect-from-pubspec"
-  backbase-service-development:
-    extends: spring-boot-development
+  de-backbase-service-development:
+    extends: de-spring-boot-development
     backbase-sdk: "detect-from-bom"
-  backbase-angular-development:
-    extends: angular-development
+  de-backbase-angular-development:
+    extends: de-angular-development
     backbase-frontend: "detect-from-package-json"

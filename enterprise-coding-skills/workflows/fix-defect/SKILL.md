@@ -1,5 +1,5 @@
 ---
-name: fix-defect
+name: de-fix-defect
 description: >-
   Diagnose and fix bugs with evidence: reproduce, locate root cause, apply a
   minimal fix, add regression tests, and verify. Use for defect/bug tasks. Do

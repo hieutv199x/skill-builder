@@ -1,5 +1,5 @@
 ---
-name: secure-coding
+name: de-secure-coding
 description: >-
   Apply secure coding practices across stacks: input validation, authn/authz,
   secrets handling, injection prevention, safe logging, SSRF/path traversal

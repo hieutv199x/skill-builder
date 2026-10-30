@@ -48,10 +48,10 @@ enterprise-coding-skills/
 │   ├── compatibility.yaml          # framework, version ranges
 │   └── bundles.yaml                # composition theo service type
 ├── foundation/
-│   ├── repository-analyzer/SKILL.md
-│   ├── coding-quality/SKILL.md
-│   ├── secure-coding/SKILL.md
-│   └── testing-strategy/SKILL.md
+│   ├── de-repository-analyzer/SKILL.md
+│   ├── de-coding-quality/SKILL.md
+│   ├── de-secure-coding/SKILL.md
+│   └── de-testing-strategy/SKILL.md
 ├── languages/
 │   ├── java/SKILL.md
 │   ├── typescript/SKILL.md
@@ -70,11 +70,11 @@ enterprise-coding-skills/
 │   ├── android/SKILL.md
 │   └── swiftui/SKILL.md
 ├── workflows/
-│   ├── implement-feature/SKILL.md
-│   ├── fix-defect/SKILL.md
-│   ├── refactor-service/SKILL.md
-│   ├── review-code/SKILL.md
-│   └── backfill-agents-md/SKILL.md
+│   ├── de-implement-feature/SKILL.md
+│   ├── de-fix-defect/SKILL.md
+│   ├── de-refactor-service/SKILL.md
+│   ├── de-review-code/SKILL.md
+│   └── de-backfill-agents-md/SKILL.md
 ├── templates/
 │   └── AGENTS.md.template
 ├── tooling/
@@ -175,7 +175,7 @@ metadata:
 
 ```markdown
 ---
-name: backbase-service-development
+name: de-backbase-service-development
 description: >-
   Implement or change Backbase Java/Spring backend services, endpoints,
   business logic and adapters. Use for Backbase SDK backend tasks and
@@ -225,7 +225,7 @@ remaining risks, and decisions requiring approval.
 
 ```markdown
 ---
-name: backbase-angular-development
+name: de-backbase-angular-development
 description: >-
   Implement Backbase Angular frontend journeys, components, forms,
   routing, API clients and UI tests. Use for Backbase Angular app changes.
@@ -306,7 +306,7 @@ Eval Center + Skill Feedback
 
 **Anti-overloading:** task đơn giản thường dùng workflow skill + framework skill + một skill kiểm tra cần thiết. Không cố định bắt buộc 4–8 skills cho mọi prompt; chọn theo bằng chứng.
 
-**Ví dụ:** Backbase Angular story → `implement-feature` + `backbase-angular-development` + (khi cần) `angular` + `frontend-testing`. Không tự động tải `spring-boot` trừ khi scope có backend.
+**Ví dụ:** Backbase Angular story → `de-implement-feature` + `de-backbase-angular-development` + (khi cần) `angular` + `frontend-testing`. Không tự động tải `spring-boot` trừ khi scope có backend.
 
 ## 8. `AGENTS.md` — quy tắc cho từng service
 
@@ -425,7 +425,7 @@ A skill is release-ready only when:
 
 ## 13. Khuyến nghị triển khai đầu tiên
 
-Begin with **repository-analyzer**, **backfill-agents-md**, **spring-boot**, **angular**, **backbase-service**, and **backbase-angular**. Validate their activation and generated changes on a handful of real repos before scaling the catalog. Prioritize skill quality and task coverage over raw skill count.
+Begin with **de-repository-analyzer**, **de-backfill-agents-md**, **spring-boot**, **angular**, **backbase-service**, and **backbase-angular**. Validate their activation and generated changes on a handful of real repos before scaling the catalog. Prioritize skill quality and task coverage over raw skill count.
 
 ---
 

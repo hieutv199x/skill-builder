@@ -1,5 +1,5 @@
 ---
-name: django-development
+name: de-django-development
 description: >-
   Implement and modify Django / Django REST Framework apps: models, migrations,
   views/viewsets, serializers, permissions, admin, and tests. Use when Django is

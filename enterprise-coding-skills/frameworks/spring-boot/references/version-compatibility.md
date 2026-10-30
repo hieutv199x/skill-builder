@@ -120,7 +120,7 @@ Rules:
 | Java 17 → 21 | **No** — dedicated upgrade track |
 | Hibernate 5 → 6 as side effect | **No** |
 
-When the user asks for an upgrade, treat it as its own workflow with a compatibility review — not as part of `implement-feature` for business logic.
+When the user asks for an upgrade, treat it as its own workflow with a compatibility review — not as part of `de-implement-feature` for business logic.
 
 ---
 

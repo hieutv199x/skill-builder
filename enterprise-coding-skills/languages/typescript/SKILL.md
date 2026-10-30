@@ -1,9 +1,9 @@
 ---
-name: typescript-development
+name: de-typescript-development
 description: >-
   Write and modify idiomatic TypeScript code with version-aware language features,
   packaging/modules, error handling, and the repository's test/lint toolchain.
-  Use for TypeScript language-level work. Prefer angular-development / react-development / nestjs-development when those frameworks
+  Use for TypeScript language-level work. Prefer de-angular-development / de-react-development / de-nestjs-development when those frameworks
   are the primary task focus — this skill complements them, it does not replace them.
 metadata:
   version: "1.1.0"

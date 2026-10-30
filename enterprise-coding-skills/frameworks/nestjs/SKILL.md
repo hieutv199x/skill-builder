@@ -1,5 +1,5 @@
 ---
-name: nestjs-development
+name: de-nestjs-development
 description: >-
   Implement and modify NestJS Node backends: modules, controllers, providers,
   DTOs/validation, guards, interceptors, pipes, ORM integration (TypeORM/Prisma),

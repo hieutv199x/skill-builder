@@ -1,5 +1,5 @@
 ---
-name: review-code
+name: de-review-code
 description: >-
   Review code changes for correctness, security, compatibility, tests, and
   maintainability using enterprise guardrails. Use for PR/diff review. Do not
@@ -22,7 +22,7 @@ metadata:
 
 1. Detect stack; open matching framework/language skills mentally for expectations
 2. Correctness vs requirements/contracts
-3. Apply secure-coding + coding-quality checklists
+3. Apply de-secure-coding + de-coding-quality checklists
 4. Tests adequacy + version compatibility assumptions
 5. Report by severity with paths ([references/checklist.md](references/checklist.md))
 

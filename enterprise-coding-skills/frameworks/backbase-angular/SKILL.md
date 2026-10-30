@@ -1,5 +1,5 @@
 ---
-name: backbase-angular-development
+name: de-backbase-angular-development
 description: >-
   Implement Backbase Angular frontend journeys in depth: routing, entitlements,
   design-system composition, forms, generated API clients, state patterns already
@@ -30,14 +30,14 @@ metadata:
 - i18n keys when the app localizes journeys
 
 **Excluded**
-- Java/Spring / Backbase backend → `backbase-service-development`
-- Pure generic Angular with no Backbase packages → `angular-development`
+- Java/Spring / Backbase backend → `de-backbase-service-development`
+- Pure generic Angular with no Backbase packages → `de-angular-development`
 - Inventing `@backbase/*` selectors, inputs, services, or client methods
 - Replacing the design system or adding a second state library without approval
 - Angular/Backbase major upgrades as a feature side effect
 - Hardcoding secrets, tokens, or environment URLs in the UI
 
-**Compose with** `angular-development` for Angular language/framework mechanics (standalone, forms, RxJS, tests). Prefer **this** skill when journeys, entitlements, or `@backbase/*` packages are in scope.
+**Compose with** `de-angular-development` for Angular language/framework mechanics (standalone, forms, RxJS, tests). Prefer **this** skill when journeys, entitlements, or `@backbase/*` packages are in scope.
 
 ## Detect
 
@@ -96,7 +96,7 @@ Minimal files:
 4. Forms/UX — [references/forms-and-states.md](references/forms-and-states.md)
 5. a11y — [references/accessibility.md](references/accessibility.md)
 6. Recipes — [references/common-tasks.md](references/common-tasks.md)
-7. Angular mechanics via `angular-development` references as needed
+7. Angular mechanics via `de-angular-development` references as needed
 
 ### 4. Verify
 
@@ -114,7 +114,7 @@ Output Contract — include UNVERIFIED items if any blocked the work.
 
 ## Decision rules
 
-1. Security/entitlements > approved UX/contracts > lockfile peer deps > AGENTS.md > healthy sibling journeys > `angular-development` defaults > BAD legacy  
+1. Security/entitlements > approved UX/contracts > lockfile peer deps > AGENTS.md > healthy sibling journeys > `de-angular-development` defaults > BAD legacy  
 2. Installed package exports > blog posts / memory of “Backbase components”  
 3. Generated/shared clients > new ad-hoc `HttpClient` services when generation is standard  
 4. Don’t bypass entitlements to demo a screen  

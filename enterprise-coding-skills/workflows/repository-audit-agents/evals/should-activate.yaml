@@ -1,7 +1,7 @@
 positives:
   - prompt: "Audit this repository and generate a proper AGENTS.md"
   - prompt: "Create AGENTS.md from codebase evidence with MUST/SHOULD/MUST NOT"
-  - prompt: "repository-audit-agents for the payments service"
+  - prompt: "de-repository-audit-agents for the payments service"
   - prompt: "Onboard this repo for agents — write service development instructions"
   - prompt: "Refresh AGENTS.md after the Spring Boot upgrade and classify legacy patterns"
 negatives:

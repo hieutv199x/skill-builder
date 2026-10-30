@@ -1,5 +1,5 @@
 ---
-name: go-development
+name: de-go-development
 description: >-
   Implement and modify Go services/libraries: handlers, modules, idiomatic
   concurrency/context, and go test. Use when go.mod is present. Do not use for

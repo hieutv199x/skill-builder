@@ -1,5 +1,5 @@
 ---
-name: refactor-service
+name: de-refactor-service
 description: >-
   Refactor a service or module safely while preserving behavior, keeping diffs
   focused, and using tests as a safety net. Use for intentional refactors. Do

@@ -1,5 +1,5 @@
 ---
-name: testing-strategy
+name: de-testing-strategy
 description: >-
   Plan and implement appropriate tests (unit, integration, contract, e2e) using
   the repository's real test stack and commands. Use when deciding coverage,

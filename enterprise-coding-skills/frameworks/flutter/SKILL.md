@@ -1,5 +1,5 @@
 ---
-name: flutter-development
+name: de-flutter-development
 description: >-
   Implement and modify Flutter apps: widgets, navigation, state management
   already in use (Bloc/Riverpod/Provider/etc.), and tests. Use when pubspec

@@ -1,5 +1,5 @@
 ---
-name: repository-audit-agents
+name: de-repository-audit-agents
 description: >-
   Audit a repository with evidence and generate a standards-compliant AGENTS.md
   (Identity, Architecture, Coding Rules MUST/SHOULD/MUST NOT, Workflow, Legacy

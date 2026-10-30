@@ -23,7 +23,7 @@ Record exact versions in the change report.
 1. **Peer deps win** — if an installed `@backbase/*` package peers Angular `^18` and the app is on 18, don’t use Angular 19-only APIs in that journey casually  
 2. **Don’t upgrade to unlock** — needing a component from a newer Backbase major is a compatibility track, not a journey feature  
 3. **Lockfile > wiki memory** — outdated internal docs lose to compiling code  
-4. **Angular language features** — signals / `@if` / zoneless only when Angular version **and** journey area practice allow (see `angular-development` version notes)  
+4. **Angular language features** — signals / `@if` / zoneless only when Angular version **and** journey area practice allow (see `de-angular-development` version notes)  
 5. **Multiple `@backbase/*` versions** in a monorepo — change the package set used by **this** app/lib; don’t assume another experience’s versions  
 
 ---

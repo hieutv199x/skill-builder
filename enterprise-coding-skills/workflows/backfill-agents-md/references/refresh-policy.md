@@ -1,6 +1,6 @@
 # Refresh Policy
 
-Re-run `backfill-agents-md` when:
+Re-run `de-backfill-agents-md` when:
 
 | Trigger | Why |
 |---|---|

@@ -1,12 +1,12 @@
 ---
-name: angular-development
+name: de-angular-development
 description: >-
   Implement and modify Angular applications in depth: standalone or NgModule
   components, routing/lazy loading, reactive forms, HttpClient or generated
   clients, RxJS/Signals state as already used, accessibility, Nx/workspace
   layouts, and unit/component tests. Use when package.json includes
   @angular/core. Do not use for Java backend-only tasks or Backbase-specific UI
-  SDK work (use backbase-angular-development). Never assume the newest Angular
+  SDK work (use de-backbase-angular-development). Never assume the newest Angular
   APIs without lockfile evidence.
 metadata:
   version: "1.2.0"
@@ -31,7 +31,7 @@ metadata:
 
 **Excluded**
 - Backend-only Java/Spring work
-- Backbase `@backbase/*` journey SDK work → `backbase-angular-development`
+- Backbase `@backbase/*` journey SDK work → `de-backbase-angular-development`
 - Replacing the design system or introducing a second state library without approval
 - Angular major upgrades or NgModule→standalone migrations as a feature side effect
 - Inventing APIs from a newer Angular than the lockfile

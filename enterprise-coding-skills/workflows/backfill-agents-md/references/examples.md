@@ -10,7 +10,7 @@
 
 ## Workflow
 - Read `src/main/resources/openapi/payment-api.yaml` before HTTP changes
-- Skills: `spring-boot-development`, `java-development`, `testing-strategy`
+- Skills: `de-spring-boot-development`, `de-java-development`, `de-testing-strategy`
 - Run targeted `./mvnw -pl :payment-api -Dtest=... test` before done
 ```
 

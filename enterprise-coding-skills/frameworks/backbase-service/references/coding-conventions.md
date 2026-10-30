@@ -1,6 +1,6 @@
 # Backbase Service — Coding Conventions
 
-Apply Spring conventions from `spring-boot-development`, plus:
+Apply Spring conventions from `de-spring-boot-development`, plus:
 
 ## Boundaries
 

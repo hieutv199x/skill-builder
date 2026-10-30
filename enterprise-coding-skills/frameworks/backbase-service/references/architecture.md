@@ -1,7 +1,7 @@
 # Backbase Service — Architecture
 
 Process-level guidance. Confirm package names in the target repository.  
-Compose with `spring-boot-development` for generic Spring layering.
+Compose with `de-spring-boot-development` for generic Spring layering.
 
 ## Typical concerns
 

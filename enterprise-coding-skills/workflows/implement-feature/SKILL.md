@@ -1,5 +1,5 @@
 ---
-name: implement-feature
+name: de-implement-feature
 description: >-
   End-to-end workflow to implement a product feature safely: analyze repository,
   select language/framework skills, plan, implement minimally, verify with
@@ -21,11 +21,11 @@ metadata:
 
 ## Workflow
 
-1. Run/apply `repository-analyzer`; read AGENTS.md/contracts
+1. Run/apply `de-repository-analyzer`; read AGENTS.md/contracts
 2. Select **one** primary framework skill (+ language skill if needed) — see [references/skill-selection.md](references/skill-selection.md)
 3. Plan impacted files/tests; list assumptions
 4. Implement minimal change using those skills’ guardrails
-5. Apply `testing-strategy`; add `secure-coding` / `coding-quality` only when relevant
+5. Apply `de-testing-strategy`; add `de-secure-coding` / `de-coding-quality` only when relevant
 6. Verify with real commands; report Output Contract
 
 ## Skill selection rules

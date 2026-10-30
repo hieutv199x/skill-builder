@@ -1,5 +1,5 @@
 ---
-name: android-development
+name: de-android-development
 description: >-
   Implement and modify Android apps (Kotlin): Compose or View system, ViewModels,
   navigation, repositories, and unit/UI tests as present. Use for Android

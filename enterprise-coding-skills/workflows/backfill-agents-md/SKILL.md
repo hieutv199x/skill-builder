@@ -1,5 +1,5 @@
 ---
-name: backfill-agents-md
+name: de-backfill-agents-md
 description: >-
   Backfill or refresh evidence-based AGENTS.md for a service or monorepo package:
   inventory stack, classify patterns (GOOD / LEGACY-ACCEPTED / BAD / UNKNOWN),
@@ -17,7 +17,7 @@ metadata:
 
 Independent workflow to **produce or refresh** a standards-compliant `AGENTS.md` from repository evidence.
 
-Related skill: `repository-audit-agents` (deeper audit rubric / inventory scripts). This skill owns the **backfill delivery workflow** (draft → merge → review → handoff). Either skill may be used alone; together they reinforce quality.
+Related skill: `de-repository-audit-agents` (deeper audit rubric / inventory scripts). This skill owns the **backfill delivery workflow** (draft → merge → review → handoff). Either skill may be used alone; together they reinforce quality.
 
 ## Scope
 
@@ -46,7 +46,7 @@ Related skill: `repository-audit-agents` (deeper audit rubric / inventory script
 | Contracts | OpenAPI / proto / generated clients |
 | Samples | 1–3 representative features with tests when possible |
 
-Optional: run `../repository-audit-agents/scripts/inventory.py` or `repository-analyzer` `detect-stack.py` when available.
+Optional: run `../de-repository-audit-agents/scripts/inventory.py` or `de-repository-analyzer` `detect-stack.py` when available.
 
 ## Preconditions
 

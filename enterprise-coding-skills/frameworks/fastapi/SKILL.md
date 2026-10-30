@@ -1,5 +1,5 @@
 ---
-name: fastapi-development
+name: de-fastapi-development
 description: >-
   Implement and modify FastAPI services: APIRouter routes, Pydantic v1/v2
   models, dependencies, auth hooks, settings, SQLAlchemy/other persistence as

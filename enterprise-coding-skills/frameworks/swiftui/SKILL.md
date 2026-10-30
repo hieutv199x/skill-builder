@@ -1,5 +1,5 @@
 ---
-name: swiftui-development
+name: de-swiftui-development
 description: >-
   Implement and modify SwiftUI features: views, navigation, state (Observation/
   ObservableObject/TCA as used), and tests/previews. Use for SwiftUI app work.

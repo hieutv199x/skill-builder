@@ -1,5 +1,5 @@
 ---
-name: spring-boot-development
+name: de-spring-boot-development
 description: >-
   Implement and modify Spring Boot / Java services in depth: REST/WebFlux
   endpoints, DTO validation, application services, JPA/JDBC/jOOQ persistence,
@@ -7,7 +7,7 @@ description: >-
   Details errors, and tests (JUnit 5, MockMvc, WebTestClient, Testcontainers).
   Use when pom.xml or Gradle includes spring-boot-starter. Do not use for
   Angular/UI-only work or Backbase-specific SDK tasks (use
-  backbase-service-development). Never invent Spring APIs unsupported by the
+  de-backbase-service-development). Never invent Spring APIs unsupported by the
   Boot/JDK versions installed in the repo.
 metadata:
   version: "1.2.0"
@@ -32,7 +32,7 @@ metadata:
 
 **Excluded**
 - Frontend (Angular/React/etc.)
-- Backbase SDK-specific work → `backbase-service-development`
+- Backbase SDK-specific work → `de-backbase-service-development`
 - Boot major / JDK major upgrades as a side effect of a feature
 - Introducing a second persistence stack, mapper stack, or security framework
 - Unapproved breaking public API / DB destructive changes

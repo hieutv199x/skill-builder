@@ -1,9 +1,9 @@
 ---
-name: java-development
+name: de-java-development
 description: >-
   Write and modify idiomatic Java code with version-aware language features,
   packaging/modules, error handling, and the repository's test/lint toolchain.
-  Use for Java language-level work. Prefer spring-boot-development / backbase-service-development when those frameworks
+  Use for Java language-level work. Prefer de-spring-boot-development / de-backbase-service-development when those frameworks
   are the primary task focus — this skill complements them, it does not replace them.
 metadata:
   version: "1.1.0"

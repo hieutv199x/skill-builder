@@ -1,9 +1,9 @@
 ---
-name: kotlin-development
+name: de-kotlin-development
 description: >-
   Write and modify idiomatic Kotlin code with version-aware language features,
   packaging/modules, error handling, and the repository's test/lint toolchain.
-  Use for Kotlin language-level work. Prefer android-development when those frameworks
+  Use for Kotlin language-level work. Prefer de-android-development when those frameworks
   are the primary task focus — this skill complements them, it does not replace them.
 metadata:
   version: "1.1.0"
