@@ -1,0 +1,6 @@
+positives:
+  - prompt: "Refactor this Kotlin service to remove unsafe !! calls"
+  - prompt: "Add Kotlin unit tests for this domain class"
+negatives:
+  - prompt: "Style an Angular template"
+  - prompt: "Add ASP.NET middleware"

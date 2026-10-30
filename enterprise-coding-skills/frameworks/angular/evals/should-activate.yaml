@@ -1,0 +1,12 @@
+positives:
+  - prompt: "Add an Angular standalone component and lazy route for order history"
+  - prompt: "Fix reactive form validation on the profile page"
+  - prompt: "Update Angular routes and OnPush list performance for transactions"
+  - prompt: "Wire HttpClient/facade loading and error states for invoices"
+  - prompt: "Add Jest/TestBed tests for the payments container component"
+negatives:
+  - prompt: "Add a JPA repository method"
+  - prompt: "Change the Spring security filter chain"
+  - prompt: "Only detect the repository stack"
+  - prompt: "Implement Backbase Java adapter for arrangements"
+  - prompt: "Create a NestJS module"

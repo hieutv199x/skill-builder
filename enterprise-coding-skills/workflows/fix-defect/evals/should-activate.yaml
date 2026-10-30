@@ -1,0 +1,6 @@
+positives:
+  - prompt: "Fix the NullPointerException in checkout"
+  - prompt: "Bug: the Angular form submits twice"
+negatives:
+  - prompt: "Implement a brand new payments dashboard feature"
+  - prompt: "Backfill AGENTS.md for all services"

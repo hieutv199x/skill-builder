@@ -1,0 +1,12 @@
+positives:
+  - prompt: "Backfill AGENTS.md for this service from the codebase"
+  - prompt: "Generate project AGENTS.md with MUST and MUST NOT rules"
+  - prompt: "Refresh stale AGENTS.md after our dependency upgrade"
+  - prompt: "Roll out AGENTS.md across monorepo packages safely"
+  - prompt: "Merge a new audit into the existing AGENTS.md without losing owner rules"
+negatives:
+  - prompt: "Implement the refund endpoint"
+  - prompt: "Fix the Angular double-submit bug"
+  - prompt: "Only run repository stack detection without writing AGENTS.md"
+  - prompt: "Add a Flyway migration"
+  - prompt: "Review PR security only"

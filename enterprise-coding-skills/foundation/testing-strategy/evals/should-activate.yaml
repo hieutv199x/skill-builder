@@ -1,0 +1,6 @@
+positives:
+  - prompt: "What tests should we add for this endpoint change?"
+  - prompt: "Write unit and integration tests for the refund flow"
+negatives:
+  - prompt: "Only detect whether this repo uses Gradle or Maven"
+  - prompt: "Rewrite the marketing homepage copy"

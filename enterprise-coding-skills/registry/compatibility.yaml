@@ -1,0 +1,39 @@
+# Framework / version compatibility — always verify against the target repo.
+version: "1.1.0"
+
+matrices:
+  spring-boot-development:
+    java: ">=17"
+    spring-boot: ">=3.0 <4.0"
+  angular-development:
+    node: ">=18"
+    angular: ">=15 <20"
+  react-development:
+    node: ">=18"
+    react: ">=18"
+  fastapi-development:
+    python: ">=3.10"
+    fastapi: ">=0.100"
+  django-development:
+    python: ">=3.10"
+    django: ">=4.2"
+  nestjs-development:
+    node: ">=18"
+    nestjs: ">=10"
+  aspnet-core-development:
+    dotnet: ">=8"
+  android-development:
+    kotlin: ">=1.9"
+    min-sdk: "detect-from-gradle"
+  swiftui-development:
+    swift: ">=5.9"
+  go-development:
+    go: ">=1.21"
+  flutter-development:
+    dart: "detect-from-pubspec"
+  backbase-service-development:
+    extends: spring-boot-development
+    backbase-sdk: "detect-from-bom"
+  backbase-angular-development:
+    extends: angular-development
+    backbase-frontend: "detect-from-package-json"

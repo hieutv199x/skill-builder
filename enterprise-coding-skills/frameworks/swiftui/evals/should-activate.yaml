@@ -1,0 +1,6 @@
+positives:
+  - prompt: "Add a SwiftUI screen for card details"
+  - prompt: "Fix SwiftUI navigation and state updates"
+negatives:
+  - prompt: "Implement a Kotlin Android Compose item"
+  - prompt: "Add a FastAPI route"

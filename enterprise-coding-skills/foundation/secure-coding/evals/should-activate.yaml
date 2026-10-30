@@ -1,0 +1,6 @@
+positives:
+  - prompt: "Review this PR for security issues and secret leakage"
+  - prompt: "Implement login without weakening authorization checks"
+negatives:
+  - prompt: "Rename variables for readability only"
+  - prompt: "Update button colors in the Angular theme"

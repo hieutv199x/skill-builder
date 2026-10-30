@@ -1,0 +1,6 @@
+positives:
+  - prompt: "Fix nullable reference warnings in this C# library"
+  - prompt: "Refactor C# async code to avoid sync-over-async"
+negatives:
+  - prompt: "Create a Flutter widget"
+  - prompt: "Add a React Query hook"

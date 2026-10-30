@@ -1,0 +1,6 @@
+positives:
+  - prompt: "Add an ASP.NET Core Web API endpoint for orders"
+  - prompt: "Fix EF Core query in this ASP.NET service"
+negatives:
+  - prompt: "Create a Flutter form"
+  - prompt: "Edit Angular template bindings"

@@ -1,0 +1,6 @@
+positives:
+  - prompt: "Add a NestJS module and controller for notifications"
+  - prompt: "Fix NestJS guard authorization on an endpoint"
+negatives:
+  - prompt: "Update Android Compose UI"
+  - prompt: "Change Django templates"

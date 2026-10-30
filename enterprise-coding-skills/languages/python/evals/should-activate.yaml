@@ -1,0 +1,6 @@
+positives:
+  - prompt: "Add type hints and pytest coverage to this Python utility"
+  - prompt: "Refactor this Python module for clarity"
+negatives:
+  - prompt: "Update Angular Material table columns"
+  - prompt: "Change ASP.NET controllers only"

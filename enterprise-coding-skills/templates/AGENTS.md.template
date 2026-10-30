@@ -1,0 +1,33 @@
+# Service Development Instructions
+
+## Identity
+- Service: [name]
+- Stack: [language/framework + versions from manifests/lockfiles]
+- Build/test tools: [exact commands from scripts/CI]
+
+## Architecture
+- Responsibilities and boundaries: [what this service owns / does not own]
+- Entry points: [boot class, main routes, controllers — real paths]
+- Contracts and dependencies: [OpenAPI/proto/client paths; key upstreams]
+
+## Coding Rules
+- MUST:
+  - [non-negotiable rule — evidence-backed]
+- SHOULD:
+  - [preferred convention when multiple options exist]
+- MUST NOT:
+  - [forbidden pattern — include reason]
+
+## Workflow
+- Read relevant contracts and AGENTS.md constraints before editing.
+- Prefer independent enterprise skills that match this stack: [skill-name, ...]
+- Run targeted lint/tests/build before declaring completion; record real results.
+
+## Known Exceptions / Legacy Debt
+- [path/pattern]: [why accepted] — agents must not spread this pattern unless the task requires touching it.
+
+## Evidence
+- Stack/manifests: [paths]
+- CI/commands: [workflow paths]
+- Pattern samples: [paths supporting MUST/SHOULD/MUST NOT]
+- Last audited: [YYYY-MM-DD] — refresh when dependencies or architecture change materially.

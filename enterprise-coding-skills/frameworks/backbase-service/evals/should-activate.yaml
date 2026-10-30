@@ -1,0 +1,12 @@
+positives:
+  - prompt: "Implement a Backbase backend OpenAPI operation for arrangements"
+  - prompt: "Update the Backbase Java adapter integrating with the payments product SDK"
+  - prompt: "Regenerate BOAT stubs and implement the service delegate"
+  - prompt: "Add entitlements to a Backbase service write endpoint"
+  - prompt: "Fix mapping defect in a Backbase outbound adapter with tests"
+negatives:
+  - prompt: "Build a pure Angular form with no Backbase packages"
+  - prompt: "Write a Python FastAPI hello world"
+  - prompt: "Only restyle CSS in the marketing site"
+  - prompt: "Implement NestJS notifications module"
+  - prompt: "Create a React invoice filter"

@@ -1,0 +1,6 @@
+positives:
+  - prompt: "Add a Django REST Framework viewset for invoices"
+  - prompt: "Create a Django model and migration for tags"
+negatives:
+  - prompt: "Add a NestJS controller"
+  - prompt: "Build a React Native screen"

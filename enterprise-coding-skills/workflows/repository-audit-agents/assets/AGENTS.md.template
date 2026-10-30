@@ -1,0 +1,39 @@
+# Agent Instructions — [repository]
+
+> Status: DRAFT — requires service-owner review. Based on audit [date].
+
+## Repository profile
+- Purpose: [verified service responsibility]
+- Stack: [language/framework versions + evidence]
+- Modules and boundaries: [paths]
+- Canonical contracts: [OpenAPI/AsyncAPI/schema paths]
+
+## Development workflow
+- Install / bootstrap: `[verified command or NOT VERIFIED]`
+- Build: `[verified command or NOT VERIFIED]`
+- Lint / format: `[verified command or NOT VERIFIED]`
+- Unit tests: `[verified command or NOT VERIFIED]`
+- Integration tests: `[verified command or NOT VERIFIED]`
+
+## Do
+- [actionable approved or version-compatible pattern — evidence reference]
+
+## Don't
+- [concrete known anti-pattern + alternative — evidence reference]
+
+## API, security and compatibility guardrails
+- [specific repository rule supported by source]
+
+## Files requiring extra care
+- [generated code, migration paths, public contracts, deployments]
+
+## Known legacy exceptions
+- [scope, rationale, owner, remediation; otherwise 'None verified']
+
+## Verification before delivering changes
+- [minimal test and review steps]
+
+## Evidence / ownership
+- Audit report: `docs/agents-audit-report.md`
+- Service owner: [to confirm]
+- Last reviewed: [date]

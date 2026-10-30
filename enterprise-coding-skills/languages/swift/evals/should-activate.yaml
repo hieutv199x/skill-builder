@@ -1,0 +1,6 @@
+positives:
+  - prompt: "Refactor Swift networking code to async/await"
+  - prompt: "Fix optional unwrapping in this Swift model"
+negatives:
+  - prompt: "Add a Spring repository"
+  - prompt: "Create a Django admin view"
